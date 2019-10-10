@@ -11,11 +11,11 @@ The result is represented as a typical drop-down tree representation. The functi
 
 An example of usage when printing to the windows console:
 
-![console](https://github.com/johnrest/johnrest.github.io/blob/master/_posts/2019-10-10/example_console.png)
+![console](/_posts/2019-10-10/example_console.png)
 
 With the `-f` option the output is redirected to a specified file.
 
-![file](https://github.com/johnrest/johnrest.github.io/blob/master/_posts/2019-10-10/example_file.png)
+![file](/_posts/2019-10-10/example_file.png)
 
 The source code can be cloned from the [Github repository](https://github.com/johnrest/lf) or directly copied from the snippet below.
 
