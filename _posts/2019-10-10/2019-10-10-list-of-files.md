@@ -3,20 +3,18 @@ layout: post
 title:  "List of files CLI tool"
 date:   2019-10-10
 categories: python automation
-# permalink: "/"
+# permalink: "/"    
 ---
-
 `lf.py` is a tool to obtain a list of all the files in a given directory. The list is constructed recursively throughout all the inner subdirectories.
 The result is represented as a typical drop-down tree representation. The functionality included allows to print the results to console or write it to an output text file. The target directory can be indicated as an absolute or relative path, however the output file is always created within the target directory.
 
 An example of usage when printing to the windows console:
 
-![console](/assets/images/example_console.png)
-
+![console](https://github.com/johnrest/johnrest.github.io/blob/master/_posts/2019-10-10/example_console.png?raw=true)
 
 With the `-f` option the output is redirected to a specified file.
 
-![file](/assets/images/example_file.png)
+![file](https://github.com/johnrest/johnrest.github.io/blob/master/_posts/2019-10-10/example_file.png?raw=true)
 
 The source code can be cloned from the [Github repository](https://github.com/johnrest/lf) or directly copied from the snippet below.
 
