@@ -11,17 +11,17 @@ The result is represented as a typical drop-down tree representation. The functi
 
 An example of usage when printing to the windows console:
 
-![console](/_posts/2019-10-10/example_console.png)
+![console](/assets/images/example_console.png)
+
 
 With the `-f` option the output is redirected to a specified file.
 
-![file](/_posts/2019-10-10/example_file.png)
+![file](/assets/images/example_file.png)
 
 The source code can be cloned from the [Github repository](https://github.com/johnrest/lf) or directly copied from the snippet below.
 
 **Source Code:**
-
-{% highlight python %}
+```python
 import os
 import glob
 import sys
@@ -81,8 +81,7 @@ if (len(sys.argv) > 2) and (sys.argv[2].lower() == "-f"):
     with open( os.path.join(target_dir, filename), "w", encoding='utf-8') as f:
         f.write(out)
         print("Output to file: ", filename)
-{% endhighlight %}
-
+```
 
 
 
