@@ -15,15 +15,16 @@ Part 01 will be responsable for collecting the related bibliography, which means
 
 The repository for the project can be found at:
 
-https://github.com/johnrest/pychess
+
+[https://github.com/johnrest/pychess](https://github.com/johnrest/pychess "https://github.com/johnrest/pychess")
 
 --- 
 ## Bibliography
 
-- General information about chess engines: https://www.chessprogramming.org/Main_Page
+- General information about chess engines: [https://www.chessprogramming.org/Main_Page](https://www.chessprogramming.org/Main_Page)
 
-- A python library for chess: python-chess: https://python-chess.readthedocs.io/en/latest/
+- A python library for chess: python-chess: [https://python-chess.readthedocs.io/en/latest/](https://python-chess.readthedocs.io/en/latest/)
 
-- Chess blog about: https://www.chess.com/blog/zaifrun/creating-a-chess-engine-from-scratch-part-1
+- Chess blog about: [https://www.chess.com/blog/zaifrun/creating-a-chess-engine-from-scratch-part-1](https://www.chess.com/blog/zaifrun/creating-a-chess-engine-from-scratch-part-1)
 
-- pygame tutorials: http://pygametutorials.wikidot.com/tutorials
+- pygame tutorials: [https://www.chess.com/blog/zaifrun/creating-a-chess-engine-from-scratch-part-1](https://www.chess.com/blog/zaifrun/creating-a-chess-engine-from-scratch-part-1)
